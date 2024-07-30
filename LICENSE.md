@@ -33,7 +33,7 @@ This License Agreement ("Agreement") is made between the Licensor and the Licens
 2. **Licensee:** The entity or individual who is being granted a license to use the Software.
 3. **Software:** The AI code and any related documentation provided by the Licensor.
 
-## Terms and Conditions
+# Terms and Conditions
 
 ## 1. License Grant
 The Licensor hereby grants the Licensee a non-exclusive, non-transferable, and revocable license to use the Software solely for testing purposes within the Licensee's enterprise.
@@ -70,7 +70,7 @@ IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Ef
 By using the AI and the code, you agree to this license and the laws that can applied in result if you don't respect it.
 
 
-OwlAI, all rights reserved.
+### OwlAI, all rights reserved.
 
 
 
