@@ -70,4 +70,7 @@ IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Ef
 By using the AI and the code, you agree to this license and the laws that can applied in result if you don't respect it.
 
 
+OwlAI, all rights reserved.
+
+
 
