@@ -1,4 +1,4 @@
-### OwlAI complete license :
+### OwlAI complete license of the Tuesday 30^th July 2024 :
 
 This license is a legal agreement between you, the "Licensee," and the copyright holder of the Artificial Intelligence, referred to herein as "the Licensor." The Artificial Intelligence includes source code, data, models, documentation, and any other associated resources.
 
@@ -67,6 +67,7 @@ This Agreement constitutes the entire agreement between the parties and supersed
 No modification or amendment to this Agreement shall be binding unless in writing and signed by both parties.
 
 IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
+By using the AI and the code, you agree to this license and the laws that can applied in result if you don't respect it.
 
 
 
